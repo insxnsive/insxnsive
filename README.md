@@ -8,4 +8,5 @@
 
 > <img src="https://i.imgur.com/cLuxcZh.gif"/>
 
-> 🕊️📸 Twitter & Instagram: @unforbiddennate
+> 🕊️ Twitter: @natebitencourt_
+> 📸 Instagram: @unforbiddennate
