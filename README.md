@@ -1,11 +1,11 @@
-## Hello, And Welcome To My Profile!
+## hello,
 
-- ☕ __You can call me: *"Nate"*, whichever one you prefer.__
-- 🧋 __Graphic Design and Programming is what I like most!__ 
+- ☕ You can call me: *"Nate"*.
+- “One may know how to conquer without being able to do it.”
 
 ## 
 
-> <img src="https://i.imgur.com/cLuxcZh.gif"/>
+> <img src="https://i.imgur.com/sz7YU6C.gif"/>
 
 - 🕊️ Twitter: @natebitencourt_ 
 - 📸 Instagram: @unforbiddennate
