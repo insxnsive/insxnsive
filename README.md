@@ -1,7 +1,9 @@
 # Nate / Insensive
 
-- 🖤 Senior Full Stack Developer.
-- 🎈 Mostly coding in Node.js.
+- 📚 Going to college, studying programming as a whole for 7 years.
+- 💎 Senior Full Stack Developer.
+- 🤖 I work alot on AIs.
+- 👽 Mostly coding in Node.js.
 - 🌌 Working for Voidstore at the moment.
 
 >![Satan](https://i.pinimg.com/564x/c2/d0/e6/c2d0e6a9aa197aea7d052843bda4f0c7.jpg)
