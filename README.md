@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=currentColor">
+  <img align="center" alt="Wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor">
 </div>
 
 ## Back-End
@@ -23,6 +23,7 @@
   <img align="center" alt="Python-Py" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="Pycharms-Python Charms" height="30" width="40" src="https://icongr.am/devicon/pycharm-original.svg?size=128&color=currentColor">
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
   <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
   <img align="center" alt="C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 </div>
@@ -30,8 +31,8 @@
 ## Database
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Apache" height="30" width="40" src="https://icongr.am/devicon/apache-plain-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Apache" height="30" width="40" src="https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
   <img align="center" alt="NGINX" height="30" width="40" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor">
 </div>
 
