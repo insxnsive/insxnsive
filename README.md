@@ -1,12 +1,11 @@
 # Nate / Insensive
 
-- 📚 Going to college, studying programming as a whole for 7 years.
-- 💎 Senior Full Stack Developer.
 - 🤖 I work alot on AIs.
 - 👽 Mostly coding in Node.js.
 - 🌌 Working for Voidstore at the moment.
+- 📚 In College. Studying programming as a whole for 7 years.
 
->![Satan](https://i.pinimg.com/564x/c2/d0/e6/c2d0e6a9aa197aea7d052843bda4f0c7.jpg)
+>![Satan](https://media.discordapp.net/attachments/911807496048508958/1177091948335595601/Nate_Github.png?ex=65713f4d&is=655eca4d&hm=64b0c6e9b426a907fe7e594da89b1920e633add5ca4088a7eb9b3623db80dfa4&=&width=1388&height=671)
 
 ## Front-End
 <div style="display: inline_block"><br>
