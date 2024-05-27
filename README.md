@@ -1,11 +1,42 @@
+<hr> 
+
 # Nate / Insensive
 
-- 🤖 I work alot on AIs.
-- 👽 Mostly coding in Node.js.
-- 🌌 Working for Voidstore at the moment.
-- 📚 In College. Studying programming as a whole for 7 years.
+>![Nate](https://cdn.discordapp.com/attachments/911807496048508958/1244673919848419442/Banner_Github.png?ex=6655f86b&is=6654a6eb&hm=4afd0b3ae7b1bc399aebe382e07e3af049f2cd043f5b8574ba3db68313a1f05a&)
+Fullstack Developer
 
->![Satan](https://media.discordapp.net/attachments/911807496048508958/1177091948335595601/Nate_Github.png?ex=65713f4d&is=655eca4d&hm=64b0c6e9b426a907fe7e594da89b1920e633add5ca4088a7eb9b3623db80dfa4&=&width=1388&height=671)
+<hr> 
+
+## Summary:
+Experienced Fullstack Developer specializing in backend development with a strong foundation in both Python and Node.js. Possesses a degree in Python, Node.js, HTML, CSS, and PHP from Alura's online courses. Proficient in creating robust and scalable backend solutions while capable of handling frontend tasks when necessary. Skilled in working with MySQL, Apache, MongoDB, and NGINX. Committed to continuous learning and staying updated with the latest technologies.
+
+## Experience:
+
+**Fullstack Developer**
+
+[TheHappy Design](https://www.instagram.com/_thehappydesign/)
+
+*Oct 2020 - Present*
+
+- Spearheaded backend development for diverse web applications using Python and Node.js.
+- Architected RESTful APIs for seamless frontend-backend interaction.
+- Fostered collaboration with frontend counterparts, ensuring harmonious integration.
+- Engineered optimizations in database operations, enhancing system performance.
+- Championed data security through meticulous authentication and authorization mechanisms.
+- Proficiently managed MySQL, MongoDB, Apache, and NGINX configurations.
+
+## Education:
+
+**Bachelor's Degree in Fullstack Development**
+
+[Alura Online Courses](https://www.alura.com.br)
+
+*Graduated: May 2022*
+
+- Honed expertise in Python, Node.js, HTML, CSS, and PHP.
+- Executed a diverse range of projects showcasing mastery in web development technologies.
+
+<hr>
 
 ## Front-End
 <div style="display: inline_block"><br>
