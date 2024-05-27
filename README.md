@@ -7,9 +7,6 @@ Fullstack Developer
 
 <hr> 
 
-## Summary:
-Experienced Fullstack Developer specializing in backend development with a strong foundation in both Python and Node.js. Possesses a degree in Python, Node.js, HTML, CSS, and PHP from Alura's online courses. Proficient in creating robust and scalable backend solutions while capable of handling frontend tasks when necessary. Skilled in working with MySQL, Apache, MongoDB, and NGINX. Committed to continuous learning and staying updated with the latest technologies.
-
 ## Experience:
 
 **Fullstack Developer**
