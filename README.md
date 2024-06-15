@@ -2,7 +2,7 @@
 
 # Nate / Insensive
 
->![Nate](https://cdn.discordapp.com/attachments/911807496048508958/1244673919848419442/Banner_Github.png?ex=6655f86b&is=6654a6eb&hm=4afd0b3ae7b1bc399aebe382e07e3af049f2cd043f5b8574ba3db68313a1f05a&)
+>![Nate](https://cdn.discordapp.com/attachments/911807496048508958/1244673919848419442/Banner_Github.png?ex=666db36b&is=666c61eb&hm=f2c89bb81ba86d5ccfaaf58aa1d064103183d8fcbad90e8d02a7d22855cf9e19&)
 Fullstack Developer
 
 
