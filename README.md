@@ -1,7 +1,5 @@
 <hr> 
 
-# Nate / Insensive
-
 >![Nate](https://i.imgur.com/HXDZ3Zc.png)
 Fullstack Developer
 
