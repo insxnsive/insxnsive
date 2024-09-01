@@ -1,8 +1,6 @@
 <hr> 
 
->![Nate](https://i.imgur.com/HXDZ3Zc.png)
-Fullstack Developer
-
+![Nate](https://i.imgur.com/HXDZ3Zc.png)
 
 ## Experience:
 
