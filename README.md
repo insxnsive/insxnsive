@@ -7,17 +7,6 @@
 ---
 <img src="https://i.imgur.com/HXDZ3Zc.png" width="full" style="border-radius: 50%"/>
 
-## 🧑‍💼 Experience
-
-**Fullstack Developer** · [TheHappy Design](https://www.instagram.com/_thehappydesign/)
-*Oct 2020 – Present*
-
-- Built and maintained web applications using Python and Node.js.
-- Designed RESTful APIs for frontend-backend communication.
-- Optimized database queries and managed MySQL, MongoDB, Apache, and NGINX.
-- Implemented authentication and authorization systems for data security.
-- Collaborated closely with frontend developers for smooth integration.
-
 ---
 
 ## 🎓 Education
@@ -68,15 +57,6 @@
   <img align="center" alt="NGINX" height="30" width="40" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Cassandra" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg">
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=insxnsive&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insxnsive&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
