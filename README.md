@@ -4,11 +4,6 @@
   Currently studying Information Systems at IBMR.</p>
 </div>
 
----
-<img src="https://i.imgur.com/HXDZ3Zc.png" width="full" style="border-radius: 50%"/>
-
----
-
 ## 🎓 Education
 
 **Information Systems** · IBMR
