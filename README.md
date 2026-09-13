@@ -25,6 +25,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Vue.js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="WordPress" height="30" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor">
 </div>
@@ -36,6 +37,7 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
   <img align="center" alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
