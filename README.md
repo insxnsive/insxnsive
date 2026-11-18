@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-Information Systems student at IBMR. Alura fullstack degree, May 2022.
+Self-taught since 04/2020. Information Systems student at IBMR. Alura fullstack degree, May 2022.
 
 <p align="center">
   <a href="https://github.com/insxnsive/brisa"><img width="49%" src="assets/brisa.png" alt="Brisa: the Windows app showing a connected Discord route" /></a>
