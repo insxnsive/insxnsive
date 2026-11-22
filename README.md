@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-      <b>Nate</b> &nbsp;·&nbsp; fullstack dev, Node.js on the backend
+      <b>Nate</b> &nbsp;·&nbsp; AI Engineer, Node.js on the backend
       <a href="https://x.com/osomdasilva" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" width="20" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
       <a href="https://www.linkedin.com/in/insxnsive/" title="LinkedIn"><img align="right" hspace="8" width="20" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
       <a href="mailto:insxnsive@proton.me" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/proton/ffffff"><img align="right" hspace="8" width="20" alt="Email" src="https://cdn.simpleicons.org/proton/6D4AFF"></picture></a>
